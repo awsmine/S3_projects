@@ -4,3 +4,5 @@ A Repo of all my S3 Projects
 1. AWS service - AWS Transcribe https://dev.to/aws-builders/aws-service-aws-transcribe-21na
 
 2. How AWS Service - Amazon Transcribe acts on PII https://dev.to/aws-builders/how-aws-service-amazon-transcribe-acts-on-pii-264d
+
+3. How to control actions on the S3 bucket and Alerts with CloudWatch and CloudTrail https://dev.to/awsmine/how-to-control-actions-on-the-s3-bucket-and-alerts-with-cloudwatch-and-cloudtrail-3kjc
