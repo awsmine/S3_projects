@@ -8,3 +8,5 @@ A Repo of all my S3 Projects
 3. How to control actions on the S3 bucket and Alerts with CloudWatch and CloudTrail https://dev.to/awsmine/how-to-control-actions-on-the-s3-bucket-and-alerts-with-cloudwatch-and-cloudtrail-3kjc
 
 4. How to Create a simple static website using Amazon S3 ---> https://dev.to/aws-builders/how-to-create-a-simple-static-website-using-amazon-s3-e0b
+
+5. Understanding Amazon CloudFront ---> https://dev.to/aws-builders/understanding-amazon-cloudfront-674
