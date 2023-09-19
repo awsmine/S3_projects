@@ -10,3 +10,5 @@ A Repo of all my S3 Projects
 4. How to Create a simple static website using Amazon S3 ---> https://dev.to/aws-builders/how-to-create-a-simple-static-website-using-amazon-s3-e0b
 
 5. Understanding Amazon CloudFront ---> https://dev.to/aws-builders/understanding-amazon-cloudfront-674
+
+6. How to Create a simple static Amazon S3 website using Terraform ---> https://dev.to/aws-builders/how-to-create-a-simple-static-amazon-s3-website-using-terraform-43hc
