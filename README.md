@@ -15,4 +15,6 @@ A Repo of all my S3 Projects
 
 7. How to publicly access S3 Object using Terraform ---> https://dev.to/aws-builders/how-to-publicly-access-s3-object-using-terraform-3h27
 
-8. Use Amazon CloudFront for dynamic Websites -1 ---> https://dev.to/aws-builders/use-amazon-cloudfront-for-dynamic-websites-1-18bo
+8. Use Amazon CloudFront for dynamic Websites - 1 ---> https://dev.to/aws-builders/use-amazon-cloudfront-for-dynamic-websites-1-18bo
+
+9. Use Amazon CloudFront for dynamic Websites - 2 ---> https://dev.to/aws-builders/use-amazon-cloudfront-for-dynamic-websites-2-7f2
